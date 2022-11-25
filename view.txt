@@ -1,0 +1,2 @@
+this is my view  this
+this is updated view
